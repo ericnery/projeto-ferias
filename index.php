@@ -22,7 +22,7 @@
                     <div class="col-md">
                         <main id="content"  aria-label="Você está no conteudo principal">
                             <article id="article" class="acessibilidade" aria-label="Você está no conteudo principal" >
-                                <h1>POIS ESTA É A SESSÃO PRINCIPAL DE TESTE</h1>
+                                <h1>É POIS ESTA É A SESSÃO PRINCIPAL DE TESTE</h1>
                                 <p>Esse site tem de ser totalmente acessível.</p>
                                 <section>
                                 <h2> Essa é o primeiro conteudo da minha primeira página</h2>
